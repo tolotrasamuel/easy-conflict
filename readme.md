@@ -1,3 +1,4 @@
 setupInstabug()
 setupAppCenter()
 disableCaching()
+setupGoogleMaps()
