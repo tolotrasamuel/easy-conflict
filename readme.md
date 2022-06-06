@@ -5,3 +5,5 @@ import BackbaseIdentity
 import BBAppCore
 import Instabug
 import MCBCore
+import GooglePlaces
+import GoogleMaps
