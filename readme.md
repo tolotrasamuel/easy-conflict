@@ -5,3 +5,7 @@ import BackbaseIdentity
 import BBAppCore
 import Instabug
 import MCBCore
+import Firebase
+import MobileNotificationsCore
+import MobileNotificationsPresentation
+import MobileNotificationsIdentity
